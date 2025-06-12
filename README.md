@@ -1,4 +1,3 @@
-````markdown
 # 🐖 NeoVault
 
 NeoVault is a versatile savings ecosystem that includes:
@@ -29,7 +28,6 @@ Track your deposits, unlock achievements, connect devices, and manage friends, w
    git clone https://github.com/DavinTanaya/NeoVault.git
    cd NeoVault
    cd project
-````
 
 2. **Install dependencies**
 
@@ -52,22 +50,8 @@ Track your deposits, unlock achievements, connect devices, and manage friends, w
 
 5. **Upload Arduino sketch**
 
-   * Open any `.ino` file under `arduino/` in the Arduino IDE
+   * Open any `.ino` file in the Arduino IDE
    * Configure your Wi-Fi and Firebase credentials in the top of the sketch
    * Upload to your compatible hardware (ESP32/ESP8266)
 
 ---
-
-## 📂 Project Layout
-
-```
-app/                  # Expo Router screens and layouts
-src/
-  ├─ components/      # Reusable UI elements
-  ├─ context/         # Auth and state providers
-  ├─ config/          # Firebase setup
-  ├─ services/        # Business logic & API calls
-  └─ types/           # TypeScript definitions
-
-NeoVault.ino              # .ino sketches for physical PiggyBank devices
-```
