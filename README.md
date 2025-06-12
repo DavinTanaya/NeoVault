@@ -11,10 +11,14 @@ Track your deposits, unlock achievements, connect devices, and manage friends, w
 ---
 ## 🎥 Demo Videos
 
-<video controls width="640">
-  <source src="https://raw.githubusercontent.com/DavinTanaya/NeoVault/main/NeoVault_APP.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<iframe width="560" height="315"
+  src="https://www.youtube.com/embed/XW1LHSBwV0Y"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
+
 
 <video controls width="640">
   <source src="https://raw.githubusercontent.com/DavinTanaya/NeoVault/main/NeoVault_IOT.mp4" type="video/mp4">
