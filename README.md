@@ -35,20 +35,15 @@ Track your deposits, unlock achievements, connect devices, and manage friends, w
    npm install
    ```
 
-3. **Configure Firebase**
-
-   * Copy `.env.example` to `.env`
-   * Fill in your `EXPO_PUBLIC_FIREBASE_*` values from your Firebase console
-
-4. **Start the app**
+3. **Start the app**
 
    ```bash
-   expo start -c
+   npx expo start -c
    ```
 
    Scan the QR code with Expo Go (use the Expo 52 client), or open in a simulator.
 
-5. **Upload Arduino sketch**
+4. **Upload Arduino sketch**
 
    * Open any `.ino` file in the Arduino IDE
    * Configure your Wi-Fi and Firebase credentials in the top of the sketch
