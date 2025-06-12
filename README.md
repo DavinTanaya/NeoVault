@@ -10,14 +10,11 @@ Track your deposits, unlock achievements, connect devices, and manage friends, w
 
 ---
 ## 🎥 Demo Videos
+### NeoVault IOT Demo(0:15)
+[![▶ NeoVault IOT demo](https://img.youtube.com/vi/SjlLz7wAZBY/maxresdefault.jpg)](https://youtube.com/shorts/SjlLz7wAZBY)
 
-[![▶ Lihat demo di YouTube Shorts](https://img.youtube.com/vi/XW1LHSBwV0Y/maxresdefault.jpg)](https://youtube.com/shorts/XW1LHSBwV0Y)
-
-<video controls width="640">
-  <source src="https://raw.githubusercontent.com/DavinTanaya/NeoVault/main/NeoVault_IOT.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+### NeoVault APP Demo(1:22)
+[![▶ NeoVault APP demo](https://img.youtube.com/vi/XW1LHSBwV0Y/maxresdefault.jpg)](https://youtube.com/shorts/XW1LHSBwV0Y)
 ---
 
 ## 🚀 Features
