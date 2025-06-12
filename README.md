@@ -11,14 +11,7 @@ Track your deposits, unlock achievements, connect devices, and manage friends, w
 ---
 ## 🎥 Demo Videos
 
-<iframe width="560" height="315"
-  src="https://www.youtube.com/embed/XW1LHSBwV0Y"
-  title="YouTube video player"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen>
-</iframe>
-
+[![▶ Lihat demo di YouTube Shorts](https://img.youtube.com/vi/XW1LHSBwV0Y/maxresdefault.jpg)](https://youtube.com/shorts/XW1LHSBwV0Y)
 
 <video controls width="640">
   <source src="https://raw.githubusercontent.com/DavinTanaya/NeoVault/main/NeoVault_IOT.mp4" type="video/mp4">
