@@ -1,0 +1,46 @@
+{
+  "expo": {
+    "name": "NeoVault",
+    "slug": "neovault",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "neovault",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "single",
+      "favicon": "./assets/images/favicon.png"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "EXPO_PUBLIC_FIREBASE_API_KEY": "AIzaSyB95zhXnjc23KNySF_MgA0Hjus8rNfdVnU",
+      "EXPO_PUBLIC_FIREBASE_AUTH_DOMAIN": "piggybank-8605d.firebaseapp.com",
+      "EXPO_PUBLIC_FIREBASE_PROJECT_ID": "piggybank-8605d",
+      "EXPO_PUBLIC_FIREBASE_STORAGE_BUCKET": "piggybank-8605d.firebasestorage.app",
+      "EXPO_PUBLIC_FIREBASE_MESSAGING_SENDER_ID": "289463359464",
+      "EXPO_PUBLIC_FIREBASE_APP_ID": "1:289463359464:web:36d25ece61eb3f4118f65d",
+      "EXPO_PUBLIC_FIREBASE_MEASUREMENT_ID": "G-B2D8849XW0",
+      "EXPO_PUBLIC_FIREBASE_DATABASE_URL": "https://piggybank-8605d-default-rtdb.asia-southeast1.firebasedatabase.app",
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "e9bd3115-e7e8-4a6a-a568-f786e80ef639"
+      }
+    },
+    "owner": "davintanaya",
+    "android": {
+      "package": "com.davintanaya.neovault"
+    }
+  }
+}
